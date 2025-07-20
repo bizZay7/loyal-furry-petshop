@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Loyal Furry Pet Shop</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f6f6f6;
+      color: #333;
+    }
+    header {
+      background: #ff9900;
+      padding: 20px;
+      text-align: center;
+      color: white;
+    }
+    section {
+      padding: 20px;
+    }
+    .price-box {
+      background: white;
+      margin-bottom: 10px;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 15px;
+    }
+    a {
+      color: #ff9900;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Loyal Furry Pet Shop 🐾</h1>
+    <p>Dubai, Mirdif | Call us: +971 52 777 2052</p>
+  </header>
+
+  <section>
+    <h2>Grooming Services & Prices</h2>
+    <div class="price-box">Basic Grooming (Small Dogs & Cats): <strong>100 AED</strong></div>
+    <div class="price-box">Full Grooming (Small Dogs & Cats): <strong>145 AED</strong></div>
+    <div class="price-box">Basic Grooming (Medium Dogs): <strong>110 AED</strong></div>
+    <div class="price-box">Full Grooming (Medium Dogs): <strong>180 AED</strong></div>
+    <div class="price-box">Basic Grooming (Large Dogs): <strong>120 AED</strong></div>
+    <div class="price-box">Full Grooming (Large Dogs): <strong>220 AED</strong></div>
+  </section>
+
+  <section>
+    <h2>Book an Appointment</h2>
+    <p>📞 Call or message us on WhatsApp: <strong>+971 52 777 2052</strong></p>
+    <p>📸 Follow us on <a href="https://www.instagram.com/loyalpetsgrooming?igsh=MnVvOG94bW43c2d0" target="_blank">Instagram</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Loyal Furry Pet Shop 🐶🐱</p>
+  </footer>
+</body>
+</html>
